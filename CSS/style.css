@@ -1,0 +1,7 @@
+.stenio{color: blue }
+.contenu{width: 900px; margin:0 auto;}
+div.division1 .stenio{float: right;}
+div.division1 img {border-radius: 100px; }
+h3{background-color: rgb(149, 255, 0);text-align: center;margin: 0px;}
+div.division2{padding: 10px;}
+hr{ border: solid;border-color: blue;}
